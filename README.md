@@ -8,6 +8,6 @@ Dữ liệu thời tiết trong project được thu thập từ thành phố H�
 Project mang tính chất học tập
 
 ## Tài liệu tham khảo
-Khánh, P. Đ. (2019, 04 22). Bài 2 - Lý thuyết về mạng LSTM part 2. Đã truy lục 08 27, 2023, từ Khoa học dữ liệu - Khanh's blog: https://phamdinhkhanh.github.io/2019/04/22/Ly_thuyet_ve_mang_LSTM.html
-Hota, H. H. (2017). Time Series Data Prediction Using Sliding Window Based RBF Neural Network. Retrieved from https://www.semanticscholar.org/paper/Time-Series-Data-Prediction-Using-Sliding-Window-Hota-Handa/91037f01fd4b845eadca0b53f5dc00d9f61ac493
-
+- Khánh, P. Đ. (2019, 04 22). Bài 2 - Lý thuyết về mạng LSTM part 2. Đã truy lục 08 27, 2023, từ Khoa học dữ liệu - Khanh's blog: https://phamdinhkhanh.github.io/2019/04/22/Ly_thuyet_ve_mang_LSTM.html
+- Hota, H. H. (2017). Time Series Data Prediction Using Sliding Window Based RBF Neural Network. Retrieved from https://www.semanticscholar.org/paper/Time-Series-Data-Prediction-Using-Sliding-Window-Hota-Handa/91037f01fd4b845eadca0b53f5dc00d9f61ac493
+- Zvornicanin, E. (2023, 06 08). Differences Between Bidirectional and Unidirectional LSTM. Retrieved 08 27, 2023, from Baeldung: https://www.baeldung.com/cs/bidirectional-vs-unidirectional-lstm
